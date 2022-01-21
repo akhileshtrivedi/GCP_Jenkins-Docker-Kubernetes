@@ -5,7 +5,7 @@ pipeline {
 	}
 	
 	environment {
-		PROJECT_ID = 'jenkins-296812'
+		PROJECT_ID = 'genial-smoke-338309'
                 CLUSTER_NAME = 'k8s-cluster'
                 LOCATION = 'asia-south2-a'
                 CREDENTIALS_ID = 'kubernetes'		
